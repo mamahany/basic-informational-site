@@ -1,14 +1,14 @@
 # Basic Informational Site
 
-A simple Node.js server that serves static HTML pages.
+A simple Node.js server that serves static HTML pages using express.
 
 ## Setup
 
 1. Run the server:
    ```bash
-   node index.js
+   node app.js
    ```
-2. Visit `http://localhost:8080`
+2. Visit `http://localhost:3000`
 
 ## Routes
 
